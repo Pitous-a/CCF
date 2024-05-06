@@ -7,7 +7,7 @@
             "program": "${fileDirname}/${fileBasenameNoExtension}",
             "args": [
                 "<",
-                "${workspaceFolder}/202109/4收集卡牌/1.in"
+                "${workspaceFolder}/temp.in"
             ],
             "stopAtEntry": false,
             "cwd": "${fileDirname}",
